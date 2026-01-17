@@ -1,0 +1,5 @@
+{
+  "name": "Professional Vehicle Valuation Expert",
+  "description": "A high-fidelity vehicle report generator featuring real-time market data analysis via Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
